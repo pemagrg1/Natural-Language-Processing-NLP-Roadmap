@@ -7,53 +7,53 @@ NLP is mainly used for the computers to understand human language and to allow m
 # NLP applications
 The main applications are listed below:
 
-* translating the languages,
-* text processing in various languages,
-* automatic summarization,
-* analyzing sentiments,
-* speech recognition,
-* named entity recognition,
-* phrase extraction,
-* tense identification,
-* relationship extraction, etc.
+* Translating the languages,
+* Text processing in various languages,
+* Automatic summarization,
+* Analyzing sentiments,
+* Speech recognition,
+* Named entity recognition,
+* Phrase extraction,
+* Tense identification,
+* Relationship extraction, etc.
 
 ## BOOKS
 1. <a href="https://math.mit.edu/~gs/linearalgebra/">Linear Algebra by Gilbert Strang</a>
-2. <a href="https://nlp.stanford.edu/IR-book/"> INFORMATION RETRIEVAL </a>
+2. <a href="https://nlp.stanford.edu/IR-book/">INFORMATION RETRIEVAL </a>
 3. <a href="http://file.allitebooks.com/20160919/Mastering%20Natural%20Language%20Processing%20with%20Python.pdf">Mastering NLP with Python</a>
- 
 
 ## DATASET
-[https://ai.google/tools/datasets/](https://ai.google/tools/datasets/)<br>
+1. <a href="https://ai.google/tools/datasets/">Google NLP dataset</a>
 
 # COURSE
-1. <a href="https://www.udacity.com/course/intro-to-machine-learning--ud120"> INTRO TO MACHINE LEARNING</a>
-2. <a href="https://www.coursera.org/learn/machine-learning/home/welcome"> MACHINE LEARNING</a>
 
-# 
+1. <a href="https://www.udacity.com/course/intro-to-machine-learning--ud120">INTRO TO MACHINE LEARNING</a>
+2. <a href="https://www.coursera.org/learn/machine-learning/home/welcome">MACHINE LEARNING</a>
 
 # ROADMAP
-[1] Text Preprocessing <br>
-[2] Information Extraction <br>
-[3] Part Of Speech Tagging<br>
-[4] Named Entity Extraction<br>
-[5] WordEmbedding<br>
-* One hot Encoding
-* BOW
-* N-gram
-* Tfidf
-[6] Text Similarity<br>
-[7] Semantic similarity<br>
-[8] Text clustering<br>
-[9] Text categorization<br>
-[10] Text Classification<br>
-[11] sentiment similarity<br>
-[12] Text summarization<br>
-[13] Chatbot<br>
+1. Text Preprocessing
+2. Information Extraction
+3. Feature Extraction
+   1. https://towardsdatascience.com/a-feature-selection-tool-for-machine-learning-in-python-b64dd23710f0
+4. Part Of Speech Tagging
+5. Named Entity Extraction
+6. WordEmbedding
+   1. One hot Encoding
+   2. BOW
+   3. N-gram
+   4. Tfidf
+7. Text Similarity
+8. Semantic similarity
+   1. <a href="https://arxiv.org/pdf/1802.05667.pdf">Calculating the similarity between words and sentences using a lexical database and corpus statistics by Atish Pawar and Vijay Mago </a>
+9. Text clustering
+10. Text categorization
+11. Text Classification
+12. sentiment similarity
+13. Text summarization
+14. Chatbot
 
 # OTHER:
-[1] Web applications and api<br>
-* Flask
-* Fastapi
-* Django
-
+1. Web applications and api
+   * Flask
+   * Fastapi
+   * Django
