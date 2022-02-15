@@ -41,7 +41,7 @@ NLP helps computer to understand human language and also allows machines to comm
 4. Part Of Speech Tagging
 5. Named Entity Extraction
 6. WordEmbedding
-   1. One hot Encoding
+   1. [One hot Encoding](https://medium.com/zero-equals-false/one-hot-encoding-129ccc293cda)
    2. BOW
    3. N-gram
    4. Tfidf
@@ -51,16 +51,24 @@ NLP helps computer to understand human language and also allows machines to comm
 9. Text clustering
 10. Text categorization
 11. Text Classification
-12. sentiment 
-13. Text summarization
-14. Chatbot
-15. Machine Translation
-16. Text to Speech
-17. Speech to Text
+    * [Text Classification using Machine Learning](https://blog.ekbana.com/supervised-text-classification-using-machine-learning-b2466c63fb51)
+13. sentiment 
+    * [Sentiment Analysis](https://towardsdatascience.com/a-beginners-guide-to-sentiment-analysis-in-python-95e354ea84f6)
+15. Text summarization
+    * [Extractive Text Summary](https://blog.ekbana.com/automatic-text-summarization-542b78163429)
+16. Chatbot
+    * [AIML](https://pemagrg.medium.com/aiml-tutorial-a8802830f2bf?source=your_stories_page----------------------------------------)
+    * [AIML Chatbot](https://blog.ekbana.com/the-easiest-way-to-create-a-chatbot-using-aiml-ec09b12dd2e1)
+    * Rasa
+17. Machine Translation
+    * [Flores](https://github.com/facebookresearch/flores)
+    * [MBART](https://huggingface.co/facebook/mbart-large-50-many-to-many-mmt)
+18. Text to Speech
+    * [Taccotron](https://arxiv.org/abs/1703.10135)
+20. Speech to Text
     * [Audio Signal Processing](https://blog.ekbana.com/audio-signal-processing-f7e86d415489)
     * [DeepSpeech](https://deepspeech.readthedocs.io/en/r0.9/)
-    * [Taccotron](https://arxiv.org/abs/1703.10135)
-    * 
+   
 
 # OTHERS:
 1. Web applications and api
