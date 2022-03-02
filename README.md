@@ -14,6 +14,7 @@ NLP helps computer to understand human language and also allows machines to comm
 8. Tense identification,
 9. Relationship extraction, etc.
 
+
 ## BOOKS
 
 1. [Linear Algebra by Gilbert Strang](https://math.mit.edu/~gs/linearalgebra/)
@@ -32,6 +33,9 @@ NLP helps computer to understand human language and also allows machines to comm
 1. [INTRO TO MACHINE LEARNING](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 2. [MACHINE LEARNING](https://www.coursera.org/learn/machine-learning/home/welcome)
 3. [Neural Network](https://courses.analyticsvidhya.com/courses/getting-started-with-neural-networks)
+4. [DEEP LEARNING](https://classroom.udacity.com/courses/ud730) 
+2. [NEURAL NETWORK AND DEEP LEARNING](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) 
+4. [Zero to Deep Learning](https://www.udemy.com/zero-to-deep-learning/?ranMID=39197&ranEAID=Jbc0N5ZkDzk&ranSiteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&siteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&LSNPUBID=Jbc0N5ZkDzk)
 
 # ROADMAP
 
@@ -48,6 +52,8 @@ NLP helps computer to understand human language and also allows machines to comm
 ### 3. Information Extraction
 
    - [Information Extraction in Python](https://www.analyticsvidhya.com/blog/2020/06/nlp-project-information-extraction/)
+   - [INFORMATION RETRIEVAL](https://nlp.stanford.edu/IR-book/)
+
 
 ### 4. Feature Extraction
 
