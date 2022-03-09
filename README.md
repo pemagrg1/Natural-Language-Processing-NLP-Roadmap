@@ -2,7 +2,7 @@
 
 NLP helps computer to understand human language and also allows machines to communicate with us. According to the Wiki definition, **Natural-language processing** (**NLP**) is an area of computer science and artificial intelligence concerned with the interactions between computers and human (natural) languages, in particular how to program computers to fruitfully process large amounts of natural language data.
 
-# NLP applications
+### NLP applications
 
 1. Translating the languages,
 2. Text processing in various languages,
@@ -14,6 +14,24 @@ NLP helps computer to understand human language and also allows machines to comm
 8. Tense identification,
 9. Relationship extraction, etc.
 
+# ROADMAP
+1. Stats and Probability
+2. Text Preprocessing
+3. Information Extraction
+4. Feature Extraction
+5. Part Of Speech Tagging
+6. Named Entity Extraction
+7. WordEmbedding
+8. Text Similarity
+9. Semantic similarity
+10. Text clustering
+11. Text Classification
+12. sentiment
+13. Text summarization
+14. Chatbot
+15. Machine Translation
+16. Text to Speech
+17. Speech to Text
 
 ## BOOKS
 
