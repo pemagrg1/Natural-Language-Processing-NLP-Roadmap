@@ -39,6 +39,9 @@ NLP helps computer to understand human language and also allows machines to comm
 2. [INFORMATION RETRIEVAL](https://nlp.stanford.edu/IR-book/)
 3. [Mastering NLP with Python](http://file.allitebooks.com/20160919/Mastering%20Natural%20Language%20Processing%20with%20Python.pdf)
 4. [Neural Network](http://neuralnetworksanddeeplearning.com/)
+5. [Artificial-Intelligence-A-Modern-Approach-4th-Edition-1](https://github.com/pemagrg1/AI_class2022/blob/main/book/Artificial-Intelligence-A-Modern-Approach-4th-Edition-1-compressed.pdf)
+6. [Alppaydin_MachineLearning_2010](https://github.com/pemagrg1/AI_class2022/blob/main/book/Alppaydin_MachineLearning_2010.pdf)
+7. [Artificial Intelligence. Structures and Strategies for Complex Problem Solving. Sixth Edition (George F. Luger)](https://github.com/pemagrg1/AI_class2022/blob/main/book/Artificial%20Intelligence.%20Structures%20and%20Strategies%20for%20Complex%20Problem%20Solving.%20Sixth%20Edition%20(George%20F.%20Luger)%20(z-lib.org).pdf)
 
 ## DATASET
 
