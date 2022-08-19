@@ -6,7 +6,7 @@ NLP helps computer to understand human language and also allows machines to comm
 
 1. Translating the languages,
 2. Text processing in various languages,
-3. Automatic summarization,
+3. Automatic text summarization,
 4. Analyzing sentiments,
 5. Speech recognition,
 6. Named entity recognition,
