@@ -60,6 +60,9 @@ NLP helps computer to understand human language and also allows machines to comm
 5. [Courses in Kaggle](https://www.kaggle.com/learn)
 
 # ROADMAP
+### Pre-requisites:
+- [Matrix Multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html) 
+- Set Theory
 
 ### 1. Stats and Probability
 
