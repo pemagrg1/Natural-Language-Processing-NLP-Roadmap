@@ -15,7 +15,7 @@ NLP helps computer to understand human language and also allows machines to comm
 9. Relationship extraction, etc.
 
 # ROADMAP
-1. Stats and Probability
+1. Maths: Calculus, Linear Algebra, Stats and Probability
 2. Text Preprocessing
 3. Information Extraction
 4. Feature Extraction
@@ -60,13 +60,26 @@ NLP helps computer to understand human language and also allows machines to comm
 5. [Courses in Kaggle](https://www.kaggle.com/learn)
 
 # ROADMAP
-### Pre-requisites:
-- [Matrix Multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html) 
-- Set Theory
 
-### 1. Stats and Probability
+### 1. Maths
+#### Pre-requisites:
+   - [Matrix Multiplication](https://www.mathsisfun.com/algebra/matrix-multiplying.html) 
+   - Set Theory
+   - [Matrix Methods](https://www.coursera.org/learn/matrix-methods#modules)
+     
+#### Calculus
+   - [Pre-Calculus ](https://www.coursera.org/learn/precalculus-relations-functions#modules)
+   - [Calculus](https://www.coursera.org/learn/introduction-to-calculus#modules)
+   - [Probability](https://www.coursera.org/learn/introductiontoprobability#modules)
 
+#### Linear Algebra
+   - [Math for AI beginner part 1 Linear Algebra](https://www.coursera.org/learn/math-for-ai-beginner-part-1-linear-algebra#modules)
+   - [Linear Algebra: Linear Systems and Matrix Equations](https://www.coursera.org/learn/linear-systems-and-matrix-equations#modules)
+   - [Linear Algebra from Elementary to Advanced Specialization](https://www.coursera.org/specializations/linear-algebra-elementary-to-advanced#courses)
+
+#### Stats and Probability
    - [Basic Statistics in Python Probability](https://www.dataquest.io/blog/basic-statistics-in-python-probability/Basic%sStatistics%sin%sPython%s—%sProbability)
+
 
 ### 2. Text Preprocessing
 
