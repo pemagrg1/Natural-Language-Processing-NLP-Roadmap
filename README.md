@@ -60,6 +60,11 @@ NLP helps computer to understand human language and also allows machines to comm
 5. [Courses in Kaggle](https://www.kaggle.com/learn)
 
 # ROADMAP
+### For Coding
+- [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
+- [Keras for deep learning](https://www.tutorialspoint.com/keras/index.htm)
+- [Pytorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
+
 
 ### 1. Maths
 #### Pre-requisites:
