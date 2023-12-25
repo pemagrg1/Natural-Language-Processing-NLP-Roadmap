@@ -14,7 +14,7 @@ NLP helps computer to understand human language and also allows machines to comm
 8. Tense identification,
 9. Relationship extraction, etc.
 
-# ROADMAP
+# ROADMAP LIST
 1. Maths: Calculus, Linear Algebra, Stats and Probability
 2. Text Preprocessing
 3. Information Extraction
