@@ -12,8 +12,10 @@ NLP helps computer to understand human language and also allows machines to comm
 6. Named entity recognition,
 7. Phrase extraction,
 8. Tense identification,
-9. Chat bots
-10. Relationship extraction, etc.
+9. Text Classification,
+10. Chat bots,
+11. Relationship extraction,
+12. Text Generation
 
 # ROADMAP LIST
 1. Maths: Calculus, Linear Algebra, Stats and Probability
@@ -34,6 +36,8 @@ NLP helps computer to understand human language and also allows machines to comm
 16. Text to Speech
 17. Speech to Text
 18. Text Generation
+19. LLM
+20. Prompt Engineering
 
 ## BOOKS
 
@@ -60,12 +64,14 @@ NLP helps computer to understand human language and also allows machines to comm
 2. [NEURAL NETWORK AND DEEP LEARNING](https://www.coursera.org/learn/neural-networks-deep-learning/home/welcome) 
 4. [Zero to Deep Learning](https://www.udemy.com/zero-to-deep-learning/?ranMID=39197&ranEAID=Jbc0N5ZkDzk&ranSiteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&siteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&LSNPUBID=Jbc0N5ZkDzk)
 5. [Courses in Kaggle](https://www.kaggle.com/learn)
+6. [Prompt Engineering](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/home/welcome)
 
 # ROADMAP
 ### For Coding
 - [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 - [Keras for deep learning](https://www.tutorialspoint.com/keras/index.htm)
 - [Pytorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
+- [GenAI with LLM](https://www.coursera.org/learn/generative-ai-with-llms)
 
 
 ### 1. Maths
@@ -167,6 +173,10 @@ NLP helps computer to understand human language and also allows machines to comm
 
    - [Audio Signal Processing](https://blog.ekbana.com/audio-signal-processing-f7e86d415489)
    - [DeepSpeech](https://deepspeech.readthedocs.io/en/r0.9/)
+
+### 18. LLMs
+   - [Prompt Engineering Basics](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/home/welcome)
+   - [GenAI with LLM](https://www.coursera.org/learn/generative-ai-with-llms)
 
 # OTHERS:
 
