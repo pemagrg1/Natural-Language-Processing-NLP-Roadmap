@@ -71,7 +71,8 @@ NLP helps computer to understand human language and also allows machines to comm
 - [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 - [Keras for deep learning](https://www.tutorialspoint.com/keras/index.htm)
 - [Pytorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
-- [GenAI with LLM](https://www.coursera.org/learn/generative-ai-with-llms)
+- [GenAI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
+- [Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)
 
 
 ### 1. Maths
@@ -176,7 +177,9 @@ NLP helps computer to understand human language and also allows machines to comm
 
 ### 18. LLMs
    - [Prompt Engineering Basics](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/home/welcome)
-   - [GenAI with LLM](https://www.coursera.org/learn/generative-ai-with-llms)
+   - [GenAI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
+   - [Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)
+
 
 # OTHERS:
 
