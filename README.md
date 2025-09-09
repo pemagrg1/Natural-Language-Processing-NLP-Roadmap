@@ -65,15 +65,14 @@ NLP helps computer to understand human language and also allows machines to comm
 4. [Zero to Deep Learning](https://www.udemy.com/zero-to-deep-learning/?ranMID=39197&ranEAID=Jbc0N5ZkDzk&ranSiteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&siteID=Jbc0N5ZkDzk-cKP6_dy2HfoQwt5AXbpqCQ&LSNPUBID=Jbc0N5ZkDzk)
 5. [Courses in Kaggle](https://www.kaggle.com/learn)
 6. [Prompt Engineering](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone/home/welcome)
+7. [GenAI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
+8. [Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)
 
 # ROADMAP
 ### For Coding
 - [Python Tutorial](https://www.tutorialspoint.com/python/index.htm)
 - [Keras for deep learning](https://www.tutorialspoint.com/keras/index.htm)
 - [Pytorch](https://pytorch.org/tutorials/beginner/introyt/introyt1_tutorial.html)
-- [GenAI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
-- [Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)
-
 
 ### 1. Maths
 #### Pre-requisites:
