@@ -179,6 +179,9 @@ NLP helps computer to understand human language and also allows machines to comm
    - [GenAI with LLMs](https://www.coursera.org/learn/generative-ai-with-llms)
    - [Finetuning Large Language Models](https://www.coursera.org/projects/finetuning-large-language-models-project)
 
+### 19. Gen-AI
+   - [Google Gen-AI](https://github.com/GoogleCloudPlatform/generative-ai)
+
 
 # OTHERS:
 
